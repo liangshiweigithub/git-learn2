@@ -12,5 +12,5 @@ namespace My{
 		
 	protected:
 		bool m_bQuit;
-	}
+	};
 }
